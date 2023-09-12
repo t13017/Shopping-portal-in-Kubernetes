@@ -1,1 +1,1 @@
-# Shopping-portal-in-Kubernetes
+# Shopping Portal App using Kubernetes Microservices
