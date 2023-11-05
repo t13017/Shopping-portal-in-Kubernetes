@@ -30,7 +30,7 @@
 
 # Create S3 Bucket and DynamoDB table to store state and state lock.
 resource "aws_s3_bucket" "bucket" {
-  bucket = "ed-eos-terraform-state0310"
+  bucket = "ed-eos-terraform-state0508"
 
   object_lock_configuration {
     object_lock_enabled = "Enabled"
